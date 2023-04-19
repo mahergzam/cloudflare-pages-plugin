@@ -1,1 +1,1 @@
-# cloudflare-pages-plugin
+# Cloudflare Pages Drone Plugin
