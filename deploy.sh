@@ -1,6 +1,9 @@
 #!/bin/sh
 set -xe
 
+# Set Env Variables for Cloudflare Account ID and API Token
+source /usr/local/bin/set_env
+
 # Clones the public git repo and checkout to a branch
 git clone ${PLUGIN_REPO_URL} .
 git checkout ${PLUGIN_BRANCH}
