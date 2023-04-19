@@ -1,15 +1,5 @@
 # Cloudflare Pages Drone Plugin
 
----
-date: 2023-04-19T00:00:00+00:00
-title: Cloudflare Pages
-author: mgzam-harness
-tags: [ publish, cloudflare, cloudflare-pages ]
-logo: cloudflare.svg
-repo: mahergzam/cloudflare-pages-plugin
-image: mgzamharness/cf-pages-drone-plugin
----
-
 The Cloudflare Pages plugin is used to publish static websites to Cloudflare Pages. The following configuration uses the cloudflare-pages plugin to publish a website,
 
 ```yaml
