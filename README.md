@@ -1,4 +1,4 @@
-# Cloudflare Pages Drone Plugin
+# Cloudflare Pages Drone Plugin data
 
 The Cloudflare Pages plugin is used to publish static websites to Cloudflare Pages. The following configuration uses the cloudflare-pages plugin to publish a website,
 
